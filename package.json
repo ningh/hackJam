@@ -1,6 +1,6 @@
 {
   "name": "vivianh",
-  "version": "0.0.0",
+  "version": "0.0.0-1",
   "description": "vivianh.com",
   "main": "server.js",
   "dependencies": {
@@ -18,6 +18,11 @@
   "author": "vivian hsao",
   "license": "MIT",
   "engines": {
-    "node": "0.6"
-  }
+    "node": "0.8"
+  },
+  "subdomain": "vivianh",
+  "domains": [
+    "vivianh.com",
+    "www.vivianh.com"
+  ]
 }
