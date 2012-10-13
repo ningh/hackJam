@@ -16,5 +16,8 @@
     "url": "git://github.com/vhsiao/hackJam.git"
   },
   "author": "vivian hsao",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node":"0.8.x"
+  }
 }
